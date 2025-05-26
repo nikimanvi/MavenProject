@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! rhis is to test GIT SCM" );
+        System.out.println( "Hello World! rhis is to test GIT SCM and Polling" );
     }
 }
